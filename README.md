@@ -10,33 +10,33 @@ EasyEXE is a Python script designed to simplify the process of converting Python
 
 ## Getting Started
 
-1. Clone the Repository:
+1. **Clone the Repository:**
 
 ```bash
 git clone https://github.com/your_username/EasyEXE.git
 cd EasyEXE
 ```
 
-2. Install Dependencies:
+2. **Install Dependencies:**
 
 ```python
 pip install pyinstaller
 ```
 
-3. Run EasyEXE:
+3. **Run EasyEXE:**
 
 ```python
 python EasyEXE.py
 ```
 
-4. Follow the Prompts:
+4. **Follow the Prompts:**
 
 Enter the path to your Python script.
 Choose whether to use details from the JSON file for file properties.
 Customize file properties if not using the JSON file.
 Configure other options such as creating a single executable file or a windowed (GUI) executable.
 
-5. Review the Output:
+5. **Review the Output:**
    
 Upon successful conversion, EasyEXE will display a confirmation message.
 The executable will be saved in the specified output directory with the provided customization.
