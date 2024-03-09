@@ -1,0 +1,16 @@
+{
+    "script_path": "PATH_TO_SCRIPT",
+    "create_onefile": true,
+    "create_windowed": false,
+    "custom_name": "TESTER",
+    "custom_distpath": "PATH_TO_SAVE",
+    "custom_icon": "PATH_TO_ICON",
+    "file_properties": {
+        "filedescription": "FILE DESCRIPTION",
+        "fileversion": "1.2.3",
+        "productname": "TEST_NAME",
+        "productversion": "1.2.3",
+        "legalcopyright": "TEST_COPYRIGHT",
+        "language": "TEST_LANGUAGE"
+    }
+}
