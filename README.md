@@ -8,6 +8,8 @@ EasyEXE is a Python script designed to simplify the process of converting Python
 - **Configuration Management**: The script supports loading and saving configurations to streamline future conversions. The configuration is saved in a JSON file (`easyexe-config.json`).
 - **File Properties Customization**: Users can specify various file properties for the generated executable, such as file description, version, product name, and more.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Getting Started
 
 1. **Clone the Repository:**
