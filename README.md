@@ -1,6 +1,10 @@
+<div align="center">
+
 # EasyEXE - Python to Executable Converter
 
 EasyEXE is a Python script designed to simplify the process of converting Python scripts into standalone executables. It utilizes PyInstaller to achieve this conversion and provides a user-friendly interface for customizing various options.
+
+</div>
 
 ## Features
 
@@ -8,7 +12,11 @@ EasyEXE is a Python script designed to simplify the process of converting Python
 - **Configuration Management**: The script supports loading and saving configurations to streamline future conversions. The configuration is saved in a JSON file (`easyexe-config.json`).
 - **File Properties Customization**: Users can specify various file properties for the generated executable, such as file description, version, product name, and more.
 
+<div align="center">
+
 ## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Getting Started
 
