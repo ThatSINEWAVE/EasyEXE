@@ -51,6 +51,12 @@ Configure other options such as creating a single executable file or a windowed 
 Upon successful conversion, EasyEXE will display a confirmation message.
 The executable will be saved in the specified output directory with the provided customization.
 
+<div align="center">
+
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## Configuration File
 
 The `easyexe-config.json` file allows you to predefine configuration settings. It includes the following options:
