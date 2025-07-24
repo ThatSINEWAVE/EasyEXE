@@ -53,7 +53,7 @@ The executable will be saved in the specified output directory with the provided
 
 <div align="center">
 
-# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://thatsinewave.github.io/Discord-Redirect/)
 
 </div>
 
