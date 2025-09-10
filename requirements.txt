@@ -1,2 +1,2 @@
-PyInstaller==5.13.1
+PyInstaller==6.0.0
 pywin32==301
